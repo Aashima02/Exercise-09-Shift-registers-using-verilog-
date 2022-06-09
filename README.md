@@ -128,8 +128,7 @@ endmodule
 ![output](./pisortl.png)
 
 #### Timing Diagram for Shift Registers:
-![output](./pipowf.png)
-
+![pisowf](https://user-images.githubusercontent.com/93427086/172892306-187e92e6-db61-45c0-9563-f89386f33147.png)
 <br>
 
 ### Parallel Input Parallel Output (PIPO):
