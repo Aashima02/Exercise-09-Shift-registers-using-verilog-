@@ -10,7 +10,6 @@ SOFTWARE REQUIRED:   Quartus prime
 ## THEORY:
 
 Shift registers are basically of 4 types. These are:
-
 Serial In Serial Out shift register
 Serial In parallel Out shift register
 Parallel In Serial Out shift register
